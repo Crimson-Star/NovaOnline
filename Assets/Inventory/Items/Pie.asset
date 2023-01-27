@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0d7b9f6a7999404a914e694b8e7541a, type: 3}
+  m_Name: Pie
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 5deb663bc20ab6843967f8d21259d156, type: 3}
+  prefab: {fileID: 0}
+  description: Delicious!
+  healPoints: 0
